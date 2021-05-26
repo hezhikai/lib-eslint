@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-hzkweb",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhikai/lib-eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hezhikai/lib-eslint/issues"
+  },
+  "homepage": "https://github.com/hezhikai/lib-eslint#readme",
+  "dependencies": {
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-import": "^2.23.3",
+    "eslint-plugin-json": "^3.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-vue": "^7.9.0"
+  }
+}
