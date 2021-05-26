@@ -1,5 +1,5 @@
 const rules = require('./rules');
-const prettierrc = require('lib-package').prettier;
+const prettierrc = require('hzkweb-package').prettier;
 
 module.exports = {
   root: true,
